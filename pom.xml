@@ -8,12 +8,12 @@
 		<version>4.0.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wyn</groupId>
-	<artifactId>library</artifactId>
+	<groupId>com.wyn.platform</groupId>
+	<artifactId>platform-foundation</artifactId>
 	<version>0.0.3</version>
 	<packaging>pom</packaging>
-	<name>library</name>
-	<description>project for spring library</description>
+	<name>platform-foundation</name>
+	<description>platform foundation library</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -37,7 +37,7 @@
 	<distributionManagement>
 		<repository>
 			<id>github</id>
-			<url>https://maven.pkg.github.com/wayanedisudarma/spring-library</url>
+			<url>https://maven.pkg.github.com/wayanedisudarma/platform-foundation</url>
 		</repository>
 	</distributionManagement>
 
