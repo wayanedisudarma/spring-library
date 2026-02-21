@@ -1,4 +1,4 @@
-package com.wyn.platform.foundation.core.dto;
+package com.wyn.platform.foundation.web.dto;
 
 import lombok.Builder;
 import lombok.Data;

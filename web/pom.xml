@@ -9,6 +9,6 @@
         <version>0.0.3</version>
     </parent>
 
-    <artifactId>platform-foundation-core</artifactId>
+    <artifactId>platform-foundation-web</artifactId>
 
 </project>
